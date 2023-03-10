@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋 My name is Boheon Park. I am a Back-end developer. and this is my practice room.
 
 <!--
 **Boheon/Boheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
